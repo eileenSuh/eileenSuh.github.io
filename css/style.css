@@ -63,7 +63,7 @@ h1.name {
 	color: #FFF;
 	font-family: "Roboto", "Helvetica Neue";
 	letter-spacing: 3.25px;
-	font-size: 1em;
+	font-size: 0.8em;
 	text-transform: uppercase;
 	margin-left: 100px;
 	margin-top: -30px;
@@ -550,6 +550,7 @@ iframe{
 		margin-right: 30px;
 	
 	}
+
 	p {
 		font-size: 1.4em;
 		font-family: proxima-nova;
@@ -558,7 +559,10 @@ iframe{
 	.RQ {
 		font-size: 1.5em;
 		display: block;
-}
+	}	
+	h1.name {
+		font-size: 50px;
+	}
 	h1.title {
 		font-size: 1.9em;
 		color:black;
