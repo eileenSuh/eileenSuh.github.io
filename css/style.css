@@ -461,8 +461,8 @@ html, body {
 	font-size: 1.4rem;
 	font-family: proxima-nova;
 	line-height: 1.4;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 .placeholder h1{
@@ -565,10 +565,28 @@ iframe{
 		color:black;
 	}
 	.main p {
-		margin-left: 200px;
+		margin-left: 300px;
+		margin-right: 300px;
 	}
 	.main h1 {
-		margin-left: 200px;
+		margin-left: 300px;
+		margin-right: 300px;
+	}
+	.dog p {
+		margin-left: 300px;
+		margin-right: 300px;
+	}
+	.byline {
+		margin-left:300px;
+		margin-right:300px;
+	}
+	.bylineTop{
+		margin-left:300px;
+		margin-right:300px;
+	}
+	.bylineBottom {
+		margin-left:300px;
+		margin-right:300px;
 	}
 }
 
