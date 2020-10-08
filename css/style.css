@@ -55,7 +55,7 @@ h1.name {
 	/*text-align: left;*/
 	margin-left: 100px;
 	margin-top: 20px;
-	font-size: 50px;
+	font-size: 3.5vw;
 
 }
 
@@ -63,7 +63,7 @@ h1.name {
 	color: #FFF;
 	font-family: "Roboto", "Helvetica Neue";
 	letter-spacing: 3.25px;
-	font-size: 1em;
+	font-size: 0.8em;
 	text-transform: uppercase;
 	margin-left: 100px;
 	
@@ -267,24 +267,24 @@ nav a:hover {
 	margin-bottom: 80px;
 	border-bottom: 1px solid LightGrey;
 	border-top: 1px solid LightGrey;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
 	overflow: scroll;
 }
 
 .bylineTop {
 	margin-top: 80px;
 	border-top: 1px solid LightGrey;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
 	overflow: scroll;
 }
 
 .bylineBottom {
 	margin-bottom: 80px;
 	border-bottom: 1px solid LightGrey;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
 	overflow: scroll;
 }
 
@@ -301,7 +301,7 @@ p {
 
 .profile-pic > img {
 	max-width: 300px;
-	width: 50%;
+	width: 100%;
 	display: block;
 	/*float: left;*/
 	margin-right: 50px;
