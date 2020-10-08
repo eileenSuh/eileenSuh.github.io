@@ -458,7 +458,7 @@ html, body {
 }
 */
 .dog p {
-	font-size: 1.4rem;
+	font-size: 1.2rem;
 	font-family: proxima-nova;
 	line-height: 1.4;
 	margin-left: 100px;
@@ -561,7 +561,7 @@ iframe{
 		display: block;
 }
 	h1.title {
-		font-size: 1.9rem;
+		font-size: 1.9em;
 		color:black;
 	}
 	.main p {
@@ -575,6 +575,7 @@ iframe{
 	.dog p {
 		margin-left: 300px;
 		margin-right: 300px;
+		font-size: 1.4em;
 	}
 	.byline {
 		margin-left:300px;
